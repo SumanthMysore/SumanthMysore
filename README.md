@@ -22,7 +22,7 @@ I'm Sumanth, an Associate Software Engineer with a passion for DevOps.
 
 I'm enthusiastic about implementing automation and best practices to streamline software development and deployment processes. I aspire to facilitate collaboration between development and operations teams, ensuring smooth and efficient software delivery.
 
-- 🔭 I’m currently exploring some Azure services.
+- 🔭 I’m currently exploring on Azure Landing zone and services.
 - 🌱 I’m continuously learning new tools and technologies in the DevOps ecosystem.
 - 💬 Feel free to ask me about CI/CD, Docker, or anything you see below..!
 
@@ -31,8 +31,9 @@ I'm enthusiastic about implementing automation and best practices to streamline 
 - Cloud Platforms: AWS, Azure
 - Containerization: Docker
 - Orchestration: Kubernetes
-- CI/CD: GitHub Actions, Jenkins
-- Infrastructure as Code: Terraform
+- Kubernetes Package Management: Helm
+- CI/CD: GitHub Actions, Jenkins, ArgoCD
+- Infrastructure as Code: Terraform, ARM & Bicep
 - Configuration Management: Ansible
 - Monitoring: Prometheus-Grafana, Grafana-Loki
 - Version Control: Git
