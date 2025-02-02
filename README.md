@@ -28,12 +28,12 @@ I'm enthusiastic about implementing automation and best practices to streamline 
 
 #### Skills and Tools
 
-- Cloud Platforms: AWS, Azure
+- Cloud Platforms: AWS
 - Containerization: Docker
 - Orchestration: Kubernetes
 - Kubernetes Package Management: Helm
 - CI/CD: GitHub Actions, Jenkins, ArgoCD
-- Infrastructure as Code: Terraform, ARM & Bicep
+- Infrastructure as Code: Terraform
 - Configuration Management: Ansible
 - Monitoring: Prometheus-Grafana, Grafana-Loki
 - Version Control: Git
