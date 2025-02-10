@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanthMysore&show_icons=true)
 -->
 
-I'm Sumanth, a DevOps Engineer.
+I'm Sumanth, a DevOps Engineer DevOps Engineer and Cloud Enthusiast.
 
 #### About Me
 
 I'm enthusiastic about implementing automation and best practices to streamline software development and deployment processes. I aspire to facilitate collaboration between development and operations teams, ensuring smooth and efficient software delivery.
 
-- 🔭 I’m currently exploring on Azure Landing zone and services.
-- 🌱 I’m continuously learning new tools and technologies in the DevOps ecosystem.
-- 💬 Feel free to ask me about CI/CD, Docker, or anything you see below..!
+- 🔭 I’m currently exploring more into AWS and Kubernetes.
+- 🌱 Committed to continuous learning and staying at the forefront of DevOps best practices.
+- 💬 Feel free to ask me about Docker, Kubernetes, or anything you see below..!
 
 #### Skills and Tools
 
@@ -48,5 +48,3 @@ I'm enthusiastic about implementing automation and best practices to streamline 
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Email](mailto:youremail@example.com)
 -->
-
-
