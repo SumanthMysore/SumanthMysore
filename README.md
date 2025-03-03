@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanthMysore&show_icons=true)
 -->
 
-I'm Sumanth, a DevOps Engineer DevOps Engineer and Cloud Enthusiast.
+I'm Sumanth, a DevOps Engineer and Cloud Enthusiast.
 
 #### About Me
 
